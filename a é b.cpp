@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+// Escreva um programa em Java para determinar se um número A é divisível por
+// outro número B. Esses valores devem ser fornecidos pelo usuário.
+
 public class ex8 {
 
 	public static void main(String[] args) {
@@ -15,11 +18,11 @@ public class ex8 {
 		
 		if(n1%n2==0)
 		{
-			System.out.println("o numero � divisivel por "+n2);
+			System.out.println("o numero é divisivel por "+n2);
 		}
 		else
 		{
-			System.out.println("o numero n�o � divisivel por "+n2);
+			System.out.println("o numero não é divisivel por "+n2);
 		}
 		
 		leia.close();
