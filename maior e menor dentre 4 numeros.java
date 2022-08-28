@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+// Construa um programa em Java que dado quatro valores, A, B, C e D, o
+// algoritmo imprima o maior e o menor valor.
+	
 public class ex12 {
 
 	public static void main(String[] args) {
