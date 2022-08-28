@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+// Escreva um programa em Java para determinar se um dado número N
+// (recebido através do teclado) é POSITIVO, NEGATIVO.
+
 public class ex3 {
 
 	public static void main(String[] args) {
