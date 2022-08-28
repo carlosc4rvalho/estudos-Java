@@ -21,11 +21,17 @@ public class ex12 {
 		    maior = n1;
 
 		    if (n2 > maior)
+		    {
 		        maior = n2;
+		    }
 		    if (n3 > maior)
+		    {
 		        maior = n3;
+		    }
 		    if (n4 > maior)
+		    {
 		        maior = n4;
+		    }
 
 		    System.out.println("Maior: " +maior);
 
@@ -34,11 +40,17 @@ public class ex12 {
 		    menor = n1;
 
 		    if (n2 < menor)
-		        menor = n2;
+		    {
+			menor = n2;
+		    }
 		    if (n3 < menor)
+		    {
 		        menor = n3;
+		    }
 		    if (n4 < menor)
+		    {
 		    	menor = n4;
+		    }
 
 		    System.out.println("Menor: " +menor);
 		    
