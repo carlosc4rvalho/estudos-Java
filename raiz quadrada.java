@@ -2,6 +2,11 @@ import java.util.Scanner;
 import java.util.Math;
 public class ex5 {
 
+	
+	// Escreva um programa em Java que leia um número e imprima a raiz quadrada
+        // do número caso ele seja positivo ou igual a zero e o quadrado do número caso
+        // ele seja negativo.
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner leia = new Scanner(System.in);
